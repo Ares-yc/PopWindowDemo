@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Created by kxd on 2016/12/14/014.
+ * Created by Ares on 2016/12/14/014.
  */
 
 public class PopDialog extends Dialog implements OnClickListener{
